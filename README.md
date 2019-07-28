@@ -22,7 +22,7 @@ $ pip install numpy
 
 Binocular Creature         |  Cyclops (known ray length)
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](/screenshots/1d1.gif)  |  ![](/screenshots/1d2.jpg) 
 
 The program currently supports two creatures. 
 - The standard Creature has two eyes that each generate a 1D image.
